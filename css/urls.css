@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Alef:700|Righteous|Ubuntu&display=swap');
+
+.urlinput {
+    width: 800px;
+    height: 50px;
+    font-family: 'Ubuntu', 'Alef';
+    font-size: 20px;
+}
+
+label {
+    font-family: 'Righteous';
+    font-size: 20px;
+}
